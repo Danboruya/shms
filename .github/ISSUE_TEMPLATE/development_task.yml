@@ -18,8 +18,8 @@ body:
       required: true
   - types: textarea 
     id: task-goal
-      attributes:
-        label: Task Goal
-        description: What is goal of this task.
+    attributes:
+      label: Task Goal
+      description: What is goal of this task.
     validations:
       required: true
