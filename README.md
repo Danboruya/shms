@@ -7,7 +7,7 @@
 
 | Feature                              | Status | Details                                                                                                 |
 |--------------------------------------|--------|---------------------------------------------------------------------------------------------------------|
-| Add/Delete physical book information | TBD    | You can add your physical book information to your book database.                                       |
+| Add/Delete physical book information | WIP    | You can add your physical book information to your book database.                                       |
 | Edit physical book information       | TBD    | You can edit book information.                                                                          |
 | Add book image                       | TBD    | You can save the book image.                                                                            |
 | Scan book information from barcode   | TBD    | You can scan the barcode of your book using your phone camera.                                          |
