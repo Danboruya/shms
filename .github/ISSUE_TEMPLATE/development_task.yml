@@ -16,7 +16,7 @@ body:
       description: What we need to develop the feature of this application.
     validations:
       required: true
-  - types: textarea 
+  - type: textarea 
     id: task-goal
     attributes:
       label: Task Goal
